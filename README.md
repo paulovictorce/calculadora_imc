@@ -1,10 +1,10 @@
-# calculadora_imc
+# Calculadora de IMC
 
-A new Flutter application.
+App com a finalidade de fazer o cálculo do IMC, e dar alertas na tela o quanto o usuário está abaixo, dentro ou acima do peso.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+APP construído com o framework Flutter. Mais informações a respeito do framework, acesse os links abaixo:
 
 A few resources to get you started if this is your first Flutter project:
 
